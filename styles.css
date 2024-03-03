@@ -2,8 +2,11 @@
 #eg1{
 	width: 200px;
 	height: 200px;
-	background-color: light-blue;
-	border: 2px black;
-	background-size: 200px 200px;
+	background-color: lightblue;
+	border: 2px solid black;
 	background-position: center;
+}
+#ex1{
+	background-position: center;
+	color: purple;
 }
