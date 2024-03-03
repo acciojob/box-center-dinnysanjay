@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+#eg1{
+	width: 200px;
+	height: 200px;
+	background-color: light-blue;
+	border: 2px solid black;
+	background-size: 200px 200px;
+	background-position: center;
+}
